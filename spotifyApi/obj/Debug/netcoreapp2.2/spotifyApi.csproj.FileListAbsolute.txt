@@ -1,0 +1,14 @@
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\bin\Debug\netcoreapp2.2\spotifyApi.deps.json
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\bin\Debug\netcoreapp2.2\spotifyApi.runtimeconfig.json
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\bin\Debug\netcoreapp2.2\spotifyApi.runtimeconfig.dev.json
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\bin\Debug\netcoreapp2.2\spotifyApi.dll
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\bin\Debug\netcoreapp2.2\spotifyApi.pdb
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\obj\Debug\netcoreapp2.2\spotifyApi.csprojAssemblyReference.cache
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\obj\Debug\netcoreapp2.2\spotifyApi.csproj.CoreCompileInputs.cache
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\obj\Debug\netcoreapp2.2\spotifyApi.RazorAssemblyInfo.cache
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\obj\Debug\netcoreapp2.2\spotifyApi.RazorAssemblyInfo.cs
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\obj\Debug\netcoreapp2.2\spotifyApi.AssemblyInfoInputs.cache
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\obj\Debug\netcoreapp2.2\spotifyApi.AssemblyInfo.cs
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\obj\Debug\netcoreapp2.2\spotifyApi.RazorTargetAssemblyInfo.cache
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\obj\Debug\netcoreapp2.2\spotifyApi.dll
+C:\Users\saulo.romo\GIT\netCoreFirstApp\spotifyApi\obj\Debug\netcoreapp2.2\spotifyApi.pdb
